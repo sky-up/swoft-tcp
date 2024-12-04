@@ -1,5 +1,5 @@
 {
-  "name": "swoft/tcp",
+  "name": "swoft-fork/tcp",
   "type": "library",
   "version": "v2.0.11",
   "keywords": [
@@ -10,11 +10,11 @@
     "protocol"
   ],
   "description": "Swoft tcp protocol component",
-  "homepage": "https://github.com/swoft-cloud/swoft-tcp",
+  "homepage": "https://github.com/sky-up/swoft-tcp",
   "license": "Apache-2.0",
   "require": {
-    "php": ">7.1",
-    "swoft/stdlib": "~2.0.0"
+    "php": ">8.0",
+    "swoft-fork/stdlib": "~2.0.0"
   },
   "autoload": {
     "psr-4": {
